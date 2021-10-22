@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Purpose  - Two categories of rides normal rides and premium rides
+ * Purpose  - Two categories of rides normal rides and premium rides.
  * @author  - Utkarsh Mishra
  * @version - 16.0
  * @since   - 2021-10-21
